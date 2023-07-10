@@ -1,2 +1,2 @@
 # Projetobasico
-ola amigos 
+alterando imagem basica do hero
